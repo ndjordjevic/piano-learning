@@ -6,7 +6,11 @@ Status: `[ ]` not started · `[~]` in progress · `[x]` done
 
 ---
 
-## 1. Left Hands for Beginners (daily warm-up, runs alongside everything)
+Order follows Christian Fuchs's own course structure: on YouTube, *Blues Piano for Beginners* is his beginner course, and its first video points to the *Easy Blues Piano* course as "a step up". *Easy Blues Piano* and *The Joy of Easy Boogie Woogie* share one playlist, "Easy Blues & Boogie Woogie Courses".
+
+---
+
+## 1. Left Hands for Beginners (daily warm-up, alongside everything)
 `Left Hands For Beginners.pdf` · video with all left hands: https://youtu.be/WyXxUBSZXcs
 
 Method (from the book):
@@ -38,53 +42,42 @@ Every pattern works swung and straight.
 
 ---
 
-## 1b. Easy Blues Piano Part I — first piece, start here
-`Easy Blues Piano Bundle Series Vol 1+2+3.pdf` (pp. 1–5) · [video](https://youtu.be/LSDXXjCpPSA)
+## 2. Blues Piano for Beginners 1 (videos 1–7) — start here
+`Blues Piano For Beginners 1.pdf` · [full course playlist](https://www.youtube.com/playlist?list=PLLSuwesi2CZL9lkXmWOpdWIqdDfrIVosq)
 
-8-bar minor loop (Cm – Cm/Bb – Ab7 – G7). LH: bass note + chord in quarter notes. RH: short blues-scale lines, fingering marked.
-
-- [ ] LH loop alone (chord changes clean)
-- [ ] Lines: [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5 [ ] 6 [ ] 7 [ ] 8 [ ] 9
-- [ ] Line 10 — *Hit the Road Jack* chorus
-
----
-
-## 2. Blues Piano for Beginners 1 (videos 1–7)
-`Blues Piano For Beginners 1.pdf`
-
-- [ ] **Video 1 — First independence**
+- [ ] **Video 1 — First independence** · [video](https://youtu.be/QvHHW3hxFko)
   - [ ] Blues scale over the left hand, built up note by note
   - [ ] Blues scale stretched over the 12-bar form
-- [ ] **Video 2 — Chords**
+- [ ] **Video 2 — Chords** · [video](https://youtu.be/17iE8RzsYnU)
   - [ ] Basic chord pattern (with left and right hands tight and in sync)
   - [ ] Syncopation (accents on the off-beat)
   - [ ] Two syncopations
-- [ ] **Video 3 — Combining**
+- [ ] **Video 3 — Combining** · [video](https://youtu.be/EBxL_wBh8Pk)
   - [ ] Scale and chords combined over the form
   - [ ] First turnaround (via the V7)
-- [ ] **Video 4 — Licks**
+- [ ] **Video 4 — Licks** · [video](https://youtu.be/TzVK68uspsg)
   - [ ] Licks with slides (2-2 fingering)
   - [ ] Drone lick ending
   - [ ] "THE must-have turnaround" (learn by heart)
-- [ ] **Video 5 — The Sixths**
-- [ ] **Video 6 — New elements**
+- [ ] **Video 5 — The Sixths** · [video](https://youtu.be/Rbr6m01VZqM)
+- [ ] **Video 6 — New elements** · [video](https://youtu.be/PGQJbB7Nl9k)
   - [ ] First run-up
-- [ ] **Video 7 — 8-bar form: "Blue Muffins"**
+- [ ] **Video 7 — 8-bar form: "Blue Muffins"** · [video](https://youtu.be/lWNEIq4xuFc)
 
 ---
 
 ## 3. Blues Piano for Beginners 2 (videos 8–11)
-`Blues Piano For Beginners 2.pdf`
+`Blues Piano For Beginners 2.pdf` · [full course playlist](https://www.youtube.com/playlist?list=PLLSuwesi2CZL9lkXmWOpdWIqdDfrIVosq)
 
-- [ ] **Video 8 — Brass-style right hand**
+- [ ] **Video 8 — Brass-style right hand** · [video](https://youtu.be/oIqYlGKxYk8)
   - [ ] Bass line
   - [ ] Elements 1–4, each on its own and then over the blues form
-- [ ] **Video 9 — The Drone Lick**
+- [ ] **Video 9 — The Drone Lick** · [video](https://youtu.be/rfkrXCR8__Q)
   - [ ] Variations 1–6
   - [ ] Drone lick with the minor 7th
   - [ ] Major blues scale (reminder)
-- [ ] **Video 10 — Easy parts becoming music (the rhythmic "dress")**
-- [ ] **Video 11 — A new left hand & the Magic Triangle**
+- [ ] **Video 10 — Easy parts becoming music (the rhythmic "dress")** · [video](https://youtu.be/-5n-0cX3I5I)
+- [ ] **Video 11 — A new left hand & the Magic Triangle** · [video](https://youtu.be/mX6hVxkAt5g)
   - [ ] Fake walking bass (C7, F7, G7)
   - [ ] Magic Triangle over the blues form
   - [ ] Magic Triangle with 3 notes from the blues scale
@@ -93,7 +86,45 @@ Every pattern works swung and straight.
 
 ---
 
-## 4. The Joy of Easy Boogie Woogie Vol. 1
+## 4. Blues Piano for Beginners 3 (parts 12–16)
+`Blues Piano For Beginners 3.pdf` · [full course playlist](https://www.youtube.com/playlist?list=PLLSuwesi2CZL9lkXmWOpdWIqdDfrIVosq)
+
+- [ ] **Part 12** — Easy Licks & Riffs · [video](https://youtu.be/vtfdXNA1fFU) · [bonus video](https://youtu.be/pLLaD9Vc6Rg)
+- [ ] **Part 13 — The St. James Infirmary Lesson** · [video](https://youtu.be/cZXHhJS2Du8)
+- [ ] **Part 14 — St. Louis Blues** (W.C. Handy, arr. Fuchs) · [video](https://youtu.be/aDr8bwGBotI)
+- [ ] **Part 15 — Slow Blues: blues-scale lines with "punches"** · [video](https://youtu.be/0yxTbTgGSdI)
+  - [ ] Basic punches
+  - [ ] Lines with punches over the blues form: [ ] I [ ] II [ ] III [ ] IV
+- [ ] **Part 16 — Fresh chords, fresh licks** · [video](https://youtu.be/w4qVN96wLMk) — licks:
+  [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5 [ ] 6 [ ] 7 [ ] 8 [ ] 9 [ ] 10 [ ] 11 [ ] 12
+
+---
+
+## 5. Easy Blues Piano Course Vol. 1–3 (parts 1–13)
+`Easy Blues Piano Bundle Series Vol 1+2+3.pdf`
+
+Christian Fuchs calls this course "a step up" from Blues Piano for Beginners.
+
+- [ ] **Part 1** — 8-bar minor loop (Cm – Cm/Bb – Ab7 – G7), blues-scale lines · [video](https://youtu.be/LSDXXjCpPSA)
+  - [ ] LH loop alone (chord changes clean)
+  - [ ] Lines: [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5 [ ] 6 [ ] 7 [ ] 8 [ ] 9
+  - [ ] Line 10 — *Hit the Road Jack* chorus
+- [ ] **Part 2** — Building up from a left hand · [video](https://youtu.be/PjCa5-fPHiM)
+- [ ] **Part 3** — Other traditional blues chords · [video](https://youtu.be/rnCd7fmbgNA)
+- [ ] **Part 4** — The Fever Lesson · [video](http://youtu.be/34xuecjeofU)
+- [ ] **Part 5** — Long Lines · [video](https://youtu.be/RymuNnEWTL0)
+- [ ] **Part 6** — Quick Five Blues · [video](https://youtu.be/5rcD2ZRD74I)
+- [ ] **Part 7** — Gospel Blues · [video](https://youtu.be/N6FovUZv25U)
+- [ ] **Part 8** — "Chunks" · [video](https://youtu.be/4m0g18kFazQ)
+- [ ] **Part 9** — practice video only (no sheet music)
+- [ ] **Part 10** — bonus, at the end of the PDF
+- [ ] **Part 11** — Blues Piano in G · [video](https://youtu.be/posG-746n8k)
+- [ ] **Part 12** — Finally Sound Like a Pro · [video](https://youtu.be/0GcN6EPz33c)
+- [ ] **Part 13** — Blues Piano in E · [video](https://youtu.be/MWkLx5TuvDQ)
+
+---
+
+## 6. The Joy of Easy Boogie Woogie Vol. 1
 `The Joy of Easy Boogie Woogie Vol. 1.pdf` · videos: [Part 1](https://youtu.be/d26EK-XRFE4) · [Part 2](https://youtu.be/XXrv43I5oik) · [Part 3](https://youtu.be/f-WkReTxYEE)
 
 - [ ] **Part 1 — Easy Boogie Woogie 1:** choruses [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5
@@ -102,21 +133,7 @@ Every pattern works swung and straight.
 
 ---
 
-## 5. Blues Piano for Beginners 3 (parts 12–16)
-`Blues Piano For Beginners 3.pdf`
-
-- [ ] **Part 12** (+ bonus video, linked in the product description)
-- [ ] **Part 13 — The St. James Infirmary Lesson**
-- [ ] **Part 14 — St. Louis Blues** (W.C. Handy, arr. Fuchs)
-- [ ] **Part 15 — Slow Blues: blues-scale lines with "punches"**
-  - [ ] Basic punches
-  - [ ] Lines with punches over the blues form: [ ] I [ ] II [ ] III [ ] IV
-- [ ] **Part 16 — Fresh chords, fresh licks:** licks
-  [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5 [ ] 6 [ ] 7 [ ] 8 [ ] 9 [ ] 10 [ ] 11 [ ] 12
-
----
-
-## 6. The Joy of Easy Boogie Woogie Vol. 2
+## 7. The Joy of Easy Boogie Woogie Vol. 2
 `The Joy of Easy Boogie Woogie Vol. 2.pdf` · videos: [Easy Boogie Woogie in G](https://youtu.be/LycPcujjjok) · [Licks](https://youtu.be/p9JO0xwLCSk)
 
 - [ ] **Part 4 — Easy Boogie Woogie in G**
@@ -133,26 +150,6 @@ Every pattern works swung and straight.
   - [ ] 7 Shake Your Wrist!
   - [ ] 8 A Special Drone
   - [ ] 9 Off-Beat Clashing
-
----
-
-## 7. Extra material: Easy Blues Piano Bundle Vol. 1+2+3 (Parts 2–13)
-`Easy Blues Piano Bundle Series Vol 1+2+3.pdf`
-
-A separate easy series at a similar level, for extra pieces and variety.
-
-- [ ] **Part 2** — Building up from a left hand · [video](https://youtu.be/PjCa5-fPHiM)
-- [ ] **Part 3** — Other traditional blues chords · [video](https://youtu.be/rnCd7fmbgNA)
-- [ ] **Part 4** — The Fever Lesson · [video](http://youtu.be/34xuecjeofU)
-- [ ] **Part 5** — Long Lines · [video](https://youtu.be/RymuNnEWTL0)
-- [ ] **Part 6** — Quick Five Blues · [video](https://youtu.be/5rcD2ZRD74I)
-- [ ] **Part 7** — Gospel Blues · [video](https://youtu.be/N6FovUZv25U)
-- [ ] **Part 8** — "Chunks" · [video](https://youtu.be/4m0g18kFazQ)
-- [ ] **Part 9** — practice video only (no sheet music)
-- [ ] **Part 10** — bonus, at the end of the PDF
-- [ ] **Part 11** · [video](https://youtu.be/posG-746n8k)
-- [ ] **Part 12** · [video](https://youtu.be/0GcN6EPz33c)
-- [ ] **Part 13** — Easy Blues Piano in E
 
 ---
 
