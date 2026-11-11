@@ -6,11 +6,75 @@ Status: `[ ]` not started · `[~]` in progress · `[x]` done
 
 ---
 
-Order follows Christian Fuchs's own course structure: on YouTube, *Blues Piano for Beginners* is his beginner course, and its first video points to the *Easy Blues Piano* course as "a step up". *Easy Blues Piano* and *The Joy of Easy Boogie Woogie* share one playlist, "Easy Blues & Boogie Woogie Courses".
+Order from Christian Fuchs himself (email reply, 2026-11-11):
+> I would start with beginners. Then add the left hand and easy blues course. You can always try parallel the remaining two.
+
+- **Phase 1:** Blues Piano for Beginners 1 → 2 → 3
+- **Phase 2:** Left Hands for Beginners + Easy Blues Piano Course, side by side
+- **In parallel, any time you want:** The Joy of Easy Boogie Woogie Vol. 1 & 2
 
 ---
 
-## 1. Left Hands for Beginners (daily warm-up, alongside everything)
+## 1. Blues Piano for Beginners 1 (videos 1–7) — Phase 1, start here
+`Blues Piano For Beginners 1.pdf` · [full course playlist](https://www.youtube.com/playlist?list=PLLSuwesi2CZL9lkXmWOpdWIqdDfrIVosq)
+
+- [ ] **Video 1 — First independence** · [video](https://youtu.be/QvHHW3hxFko)
+  - [ ] Blues scale over the left hand, built up note by note
+  - [ ] Blues scale stretched over the 12-bar form
+- [ ] **Video 2 — Chords** · [video](https://youtu.be/17iE8RzsYnU)
+  - [ ] Basic chord pattern (with left and right hands tight and in sync)
+  - [ ] Syncopation (accents on the off-beat)
+  - [ ] Two syncopations
+- [ ] **Video 3 — Combining** · [video](https://youtu.be/EBxL_wBh8Pk)
+  - [ ] Scale and chords combined over the form
+  - [ ] First turnaround (via the V7)
+- [ ] **Video 4 — Licks** · [video](https://youtu.be/TzVK68uspsg)
+  - [ ] Licks with slides (2-2 fingering)
+  - [ ] Drone lick ending
+  - [ ] "THE must-have turnaround" (learn by heart)
+- [ ] **Video 5 — The Sixths** · [video](https://youtu.be/Rbr6m01VZqM)
+- [ ] **Video 6 — New elements** · [video](https://youtu.be/PGQJbB7Nl9k)
+  - [ ] First run-up
+- [ ] **Video 7 — 8-bar form: "Blue Muffins"** · [video](https://youtu.be/lWNEIq4xuFc)
+- [ ] **Song: Easy Life Blues** (uses the elements of videos 1–7, recommended by Fuchs) · [video](https://youtu.be/sEMQtmU3HPw) — no sheet music in my files
+
+---
+
+## 2. Blues Piano for Beginners 2 (videos 8–11) — Phase 1
+`Blues Piano For Beginners 2.pdf` · [full course playlist](https://www.youtube.com/playlist?list=PLLSuwesi2CZL9lkXmWOpdWIqdDfrIVosq)
+
+- [ ] **Video 8 — Brass-style right hand** · [video](https://youtu.be/oIqYlGKxYk8)
+  - [ ] Bass line
+  - [ ] Elements 1–4, each on its own and then over the blues form
+- [ ] **Video 9 — The Drone Lick** · [video](https://youtu.be/rfkrXCR8__Q)
+  - [ ] Variations 1–6
+  - [ ] Drone lick with the minor 7th
+  - [ ] Major blues scale (reminder)
+- [ ] **Video 10 — Easy parts becoming music (the rhythmic "dress")** · [video](https://youtu.be/-5n-0cX3I5I)
+- [ ] **Video 11 — A new left hand & the Magic Triangle** · [video](https://youtu.be/mX6hVxkAt5g)
+  - [ ] Fake walking bass (C7, F7, G7)
+  - [ ] Magic Triangle over the blues form
+  - [ ] Magic Triangle with 3 notes from the blues scale
+  - [ ] Magic Triangle in the middle of a phrase
+  - [ ] Example II over the blues form
+
+---
+
+## 3. Blues Piano for Beginners 3 (parts 12–16) — Phase 1
+`Blues Piano For Beginners 3.pdf` · [full course playlist](https://www.youtube.com/playlist?list=PLLSuwesi2CZL9lkXmWOpdWIqdDfrIVosq)
+
+- [ ] **Part 12** — Easy Licks & Riffs · [video](https://youtu.be/vtfdXNA1fFU) · [bonus video](https://youtu.be/pLLaD9Vc6Rg)
+- [ ] **Part 13 — The St. James Infirmary Lesson** · [video](https://youtu.be/cZXHhJS2Du8)
+- [ ] **Part 14 — St. Louis Blues** (W.C. Handy, arr. Fuchs) · [video](https://youtu.be/aDr8bwGBotI)
+- [ ] **Part 15 — Slow Blues: blues-scale lines with "punches"** · [video](https://youtu.be/0yxTbTgGSdI)
+  - [ ] Basic punches
+  - [ ] Lines with punches over the blues form: [ ] I [ ] II [ ] III [ ] IV
+- [ ] **Part 16 — Fresh chords, fresh licks** · [video](https://youtu.be/w4qVN96wLMk) — licks:
+  [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5 [ ] 6 [ ] 7 [ ] 8 [ ] 9 [ ] 10 [ ] 11 [ ] 12
+
+---
+
+## 4. Left Hands for Beginners — Phase 2 (alongside the Easy Blues course)
 `Left Hands For Beginners.pdf` · video with all left hands: https://youtu.be/WyXxUBSZXcs
 
 Method (from the book):
@@ -42,65 +106,7 @@ Every pattern works swung and straight.
 
 ---
 
-## 2. Blues Piano for Beginners 1 (videos 1–7) — start here
-`Blues Piano For Beginners 1.pdf` · [full course playlist](https://www.youtube.com/playlist?list=PLLSuwesi2CZL9lkXmWOpdWIqdDfrIVosq)
-
-- [ ] **Video 1 — First independence** · [video](https://youtu.be/QvHHW3hxFko)
-  - [ ] Blues scale over the left hand, built up note by note
-  - [ ] Blues scale stretched over the 12-bar form
-- [ ] **Video 2 — Chords** · [video](https://youtu.be/17iE8RzsYnU)
-  - [ ] Basic chord pattern (with left and right hands tight and in sync)
-  - [ ] Syncopation (accents on the off-beat)
-  - [ ] Two syncopations
-- [ ] **Video 3 — Combining** · [video](https://youtu.be/EBxL_wBh8Pk)
-  - [ ] Scale and chords combined over the form
-  - [ ] First turnaround (via the V7)
-- [ ] **Video 4 — Licks** · [video](https://youtu.be/TzVK68uspsg)
-  - [ ] Licks with slides (2-2 fingering)
-  - [ ] Drone lick ending
-  - [ ] "THE must-have turnaround" (learn by heart)
-- [ ] **Video 5 — The Sixths** · [video](https://youtu.be/Rbr6m01VZqM)
-- [ ] **Video 6 — New elements** · [video](https://youtu.be/PGQJbB7Nl9k)
-  - [ ] First run-up
-- [ ] **Video 7 — 8-bar form: "Blue Muffins"** · [video](https://youtu.be/lWNEIq4xuFc)
-
----
-
-## 3. Blues Piano for Beginners 2 (videos 8–11)
-`Blues Piano For Beginners 2.pdf` · [full course playlist](https://www.youtube.com/playlist?list=PLLSuwesi2CZL9lkXmWOpdWIqdDfrIVosq)
-
-- [ ] **Video 8 — Brass-style right hand** · [video](https://youtu.be/oIqYlGKxYk8)
-  - [ ] Bass line
-  - [ ] Elements 1–4, each on its own and then over the blues form
-- [ ] **Video 9 — The Drone Lick** · [video](https://youtu.be/rfkrXCR8__Q)
-  - [ ] Variations 1–6
-  - [ ] Drone lick with the minor 7th
-  - [ ] Major blues scale (reminder)
-- [ ] **Video 10 — Easy parts becoming music (the rhythmic "dress")** · [video](https://youtu.be/-5n-0cX3I5I)
-- [ ] **Video 11 — A new left hand & the Magic Triangle** · [video](https://youtu.be/mX6hVxkAt5g)
-  - [ ] Fake walking bass (C7, F7, G7)
-  - [ ] Magic Triangle over the blues form
-  - [ ] Magic Triangle with 3 notes from the blues scale
-  - [ ] Magic Triangle in the middle of a phrase
-  - [ ] Example II over the blues form
-
----
-
-## 4. Blues Piano for Beginners 3 (parts 12–16)
-`Blues Piano For Beginners 3.pdf` · [full course playlist](https://www.youtube.com/playlist?list=PLLSuwesi2CZL9lkXmWOpdWIqdDfrIVosq)
-
-- [ ] **Part 12** — Easy Licks & Riffs · [video](https://youtu.be/vtfdXNA1fFU) · [bonus video](https://youtu.be/pLLaD9Vc6Rg)
-- [ ] **Part 13 — The St. James Infirmary Lesson** · [video](https://youtu.be/cZXHhJS2Du8)
-- [ ] **Part 14 — St. Louis Blues** (W.C. Handy, arr. Fuchs) · [video](https://youtu.be/aDr8bwGBotI)
-- [ ] **Part 15 — Slow Blues: blues-scale lines with "punches"** · [video](https://youtu.be/0yxTbTgGSdI)
-  - [ ] Basic punches
-  - [ ] Lines with punches over the blues form: [ ] I [ ] II [ ] III [ ] IV
-- [ ] **Part 16 — Fresh chords, fresh licks** · [video](https://youtu.be/w4qVN96wLMk) — licks:
-  [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5 [ ] 6 [ ] 7 [ ] 8 [ ] 9 [ ] 10 [ ] 11 [ ] 12
-
----
-
-## 5. Easy Blues Piano Course Vol. 1–3 (parts 1–13)
+## 5. Easy Blues Piano Course Vol. 1–3 (parts 1–13) — Phase 2
 `Easy Blues Piano Bundle Series Vol 1+2+3.pdf`
 
 Christian Fuchs calls this course "a step up" from Blues Piano for Beginners.
@@ -124,7 +130,7 @@ Christian Fuchs calls this course "a step up" from Blues Piano for Beginners.
 
 ---
 
-## 6. The Joy of Easy Boogie Woogie Vol. 1
+## 6. The Joy of Easy Boogie Woogie Vol. 1 — optional, in parallel
 `The Joy of Easy Boogie Woogie Vol. 1.pdf` · videos: [Part 1](https://youtu.be/d26EK-XRFE4) · [Part 2](https://youtu.be/XXrv43I5oik) · [Part 3](https://youtu.be/f-WkReTxYEE)
 
 - [ ] **Part 1 — Easy Boogie Woogie 1:** choruses [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5
@@ -133,7 +139,7 @@ Christian Fuchs calls this course "a step up" from Blues Piano for Beginners.
 
 ---
 
-## 7. The Joy of Easy Boogie Woogie Vol. 2
+## 7. The Joy of Easy Boogie Woogie Vol. 2 — optional, in parallel
 `The Joy of Easy Boogie Woogie Vol. 2.pdf` · videos: [Easy Boogie Woogie in G](https://youtu.be/LycPcujjjok) · [Licks](https://youtu.be/p9JO0xwLCSk)
 
 - [ ] **Part 4 — Easy Boogie Woogie in G**
