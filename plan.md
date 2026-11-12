@@ -4,6 +4,8 @@ Source books: `/home/ndjordjevic/pCloudDrive/iCloud-Migration/MyBookLive/Piano/C
 
 Status: `[ ]` not started · `[~]` in progress · `[x]` done
 
+Lesson notes (from the video transcripts): [notes/blues-piano-for-beginners.md](notes/blues-piano-for-beginners.md)
+
 ---
 
 Order from Christian Fuchs himself (email reply, 2026-11-11):
@@ -18,24 +20,41 @@ Order from Christian Fuchs himself (email reply, 2026-11-11):
 ## 1. Blues Piano for Beginners 1 (videos 1–7) — Phase 1, start here
 `Blues Piano For Beginners 1.pdf` · [full course playlist](https://www.youtube.com/playlist?list=PLLSuwesi2CZL9lkXmWOpdWIqdDfrIVosq)
 
-- [ ] **Video 1 — First independence** · [video](https://youtu.be/QvHHW3hxFko)
-  - [ ] Blues scale over the left hand, built up note by note
-  - [ ] Blues scale stretched over the 12-bar form
+- [~] **Video 1 — First independence** · [video](https://youtu.be/QvHHW3hxFko)
+  - [ ] LH shuffle pattern alone (C–G ↔ C–A, swung)
+  - [ ] RH over LH, built up note by note: [ ] 1 note (C) [ ] 2 notes [ ] 3 notes [ ] 4 notes [ ] up to G (first thumb-under) [ ] full octave C–C
+  - [ ] Full scale up and down = 2-bar figure, counted "1 and 2 and…"
+  - [ ] Over the whole 12-bar form (figure ×2 on C · ×1 on F · ×1 on C · split over G/F · C) = one chorus
 - [ ] **Video 2 — Chords** · [video](https://youtu.be/17iE8RzsYnU)
-  - [ ] Basic chord pattern (with left and right hands tight and in sync)
-  - [ ] Syncopation (accents on the off-beat)
-  - [ ] Two syncopations
+  - [ ] "Royal thirds" C → passing chord → C7, RH alone (then F7, G7 shapes)
+  - [ ] With LH, left and right tight and in sync, over the blues form
+  - [ ] Syncopation (accents on the off-beat), counted out loud
+  - [ ] Up and down the "ladder" of thirds; shortened on G
 - [ ] **Video 3 — Combining** · [video](https://youtu.be/EBxL_wBh8Pk)
-  - [ ] Scale and chords combined over the form
-  - [ ] First turnaround (via the V7)
+  - [ ] Scale and chords combined over the form (finger 4 on F♯)
+  - [ ] Triplets
+  - [ ] Standard turnaround (chromatic in both hands → G7♯5), learned by heart
 - [ ] **Video 4 — Licks** · [video](https://youtu.be/TzVK68uspsg)
   - [ ] Licks with slides (2-2 fingering)
+  - [ ] E → E♭ adjustment over F7
+  - [ ] High-energy triplet figure on beat 1 of each bar
   - [ ] Drone lick ending
   - [ ] "THE must-have turnaround" (learn by heart)
 - [ ] **Video 5 — The Sixths** · [video](https://youtu.be/Rbr6m01VZqM)
+  - [ ] Sixths run (from E, fingers 1–5)
+  - [ ] Sixths lick with C in between
+  - [ ] F7/G7 lick: 9 → chromatic to 3 → 7
+  - [ ] Standard ending (LH chromatic down, RH repeats C)
 - [ ] **Video 6 — New elements** · [video](https://youtu.be/PGQJbB7Nl9k)
+  - [ ] New LH: fifth–sixth in quarter notes
+  - [ ] Tension element (E♭ + A) resolving to chord notes
   - [ ] First run-up
+  - [ ] G7 chromatic "sewing pattern" (2 bars G)
+  - [ ] Slides E♭→E (fingers 3 and 2), a little every day
 - [ ] **Video 7 — 8-bar form: "Blue Muffins"** · [video](https://youtu.be/lWNEIq4xuFc)
+  - [ ] 8-bar form: C | C | F | F | C | G7 | C | G7
+  - [ ] Major blues scale C D E♭ E G A
+  - [ ] "Blue Muffins" piece
 - [ ] **Song: Easy Life Blues** (uses the elements of videos 1–7, recommended by Fuchs) · [video](https://youtu.be/sEMQtmU3HPw) — no sheet music in my files
 
 ---
@@ -44,13 +63,17 @@ Order from Christian Fuchs himself (email reply, 2026-11-11):
 `Blues Piano For Beginners 2.pdf` · [full course playlist](https://www.youtube.com/playlist?list=PLLSuwesi2CZL9lkXmWOpdWIqdDfrIVosq)
 
 - [ ] **Video 8 — Brass-style right hand** · [video](https://youtu.be/oIqYlGKxYk8)
-  - [ ] Bass line
+  - [ ] New LH: root – minor 3rd – major 3rd
   - [ ] Elements 1–4, each on its own and then over the blues form
+  - [ ] E → E♭ adjustment over F7
 - [ ] **Video 9 — The Drone Lick** · [video](https://youtu.be/rfkrXCR8__Q)
-  - [ ] Variations 1–6
+  - [ ] Basic drone lick, fingering 1–2–1–2–3, up and down with LH
+  - [ ] Variations 1–6 (incl. the thumb-alternating "wrist" version)
   - [ ] Drone lick with the minor 7th
   - [ ] Major blues scale (reminder)
 - [ ] **Video 10 — Easy parts becoming music (the rhythmic "dress")** · [video](https://youtu.be/-5n-0cX3I5I)
+  - [ ] Same rhythm over major blues scale, minor blues scale, drone lick, royal thirds
+  - [ ] Free improvising inside one rhythm over the blues form
 - [ ] **Video 11 — A new left hand & the Magic Triangle** · [video](https://youtu.be/mX6hVxkAt5g)
   - [ ] Fake walking bass (C7, F7, G7)
   - [ ] Magic Triangle over the blues form
@@ -64,7 +87,10 @@ Order from Christian Fuchs himself (email reply, 2026-11-11):
 `Blues Piano For Beginners 3.pdf` · [full course playlist](https://www.youtube.com/playlist?list=PLLSuwesi2CZL9lkXmWOpdWIqdDfrIVosq)
 
 - [ ] **Part 12** — Easy Licks & Riffs · [video](https://youtu.be/vtfdXNA1fFU) · [bonus video](https://youtu.be/pLLaD9Vc6Rg)
+  - [ ] Jam on C with octave LH, RH figures + riff, mini turnaround
 - [ ] **Part 13 — The St. James Infirmary Lesson** · [video](https://youtu.be/cZXHhJS2Du8)
+  - [ ] LH chords Dm · A7 · Gm · B♭7 (close inversions)
+  - [ ] D minor blues scale phrases + drone lick over the chords
 - [ ] **Part 14 — St. Louis Blues** (W.C. Handy, arr. Fuchs) · [video](https://youtu.be/aDr8bwGBotI)
 - [ ] **Part 15 — Slow Blues: blues-scale lines with "punches"** · [video](https://youtu.be/0yxTbTgGSdI)
   - [ ] Basic punches
@@ -164,4 +190,4 @@ Christian Fuchs calls this course "a step up" from Blues Piano for Beginners.
 
 | Date | What I worked on | Status / notes |
 |------|------------------|----------------|
-| | | |
+| 2026-11-12 | Blues Piano for Beginners 1, Video 1: the C blues scale (RH alone) | Started |
